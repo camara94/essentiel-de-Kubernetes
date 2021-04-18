@@ -36,7 +36,7 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ### Le deployement Kubernates
 ![deployement](images/deployementkubernate.png)
 ### Les Services Kubernates
-![services](images/servicekubernate.png
+![services](images/servicekubernate.png)
 ### Les Clients Kubernates
 ![clients kubernates](images/clientkubernates2.png)
 
@@ -48,3 +48,16 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ## Parcourir l'architecture de Kubernates
 ### Architeture générale de Kubernates
 ![process](images/architecturegeneralekubrnates.png)
+
+### Les Composants du Master
+![composants du master](images/composantdumasterkubernates.png)
+![composants du master](images/composantdumasterkubernates2.png)
+![composants du master](images/composantdumasterkubernates3.png)
+
+### Les Composants du Worker
+![composants du worker](images/composantduworkerkubernates.png)
+![composants du worker](images/composantduworkerkubernates2.png)
+
+### Accèss au cluster Kubernates
+![cluster kubernates](images/accessclusterkubernates.png)
+![cluster kubernates](images/accessclusterkubernates2.png)
