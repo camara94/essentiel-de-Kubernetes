@@ -27,3 +27,24 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ### Qu'est ce que kubernates
 ![kubernates](images/questcequekubernates.png)
 ![kubernates](images/questcequekubernates2.png)
+
+## Utiliser la terminologie Kubernates
+### Cluster Kubernates
+![cluster](images/clusterkubernates.png)
+### Les Pod Kubernates
+![pod](images/podkubernates.png)
+### Le deployement Kubernates
+![deployement](images/deployementkubernate.png)
+### Les Services Kubernates
+![services](images/servicekubernate.png
+### Les Clients Kubernates
+![clients kubernates](images/clientkubernates2.png)
+
+### Les Noeuds Kubernates
+![noeuds](images/noeudskubernates.png)
+### Les Workers Kubernates
+![workers](images/workerskubernates.png)
+
+## Parcourir l'architecture de Kubernates
+### Architeture générale de Kubernates
+![process](images/architecturegeneralekubrnates.png)
