@@ -99,3 +99,8 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ![docker](images/dockerdesktop.png)
 #### Kubeadm
 ![kube adm](images/kubeadm.png)
+
+
+## Liens utils pour kubernates
+* [Lien pour installer kubectl](https://kubernetes.io/docs/tasks/tools/install-kubectl-linux/)
+* [VPS pour kubernates](https://contabo.com/en/vps/?utm_source=adwords&utm_medium=cpc&utm_campaign=vps&gclid=Cj0KCQjwse-DBhC7ARIsAI8YcWLIbu5nIvefqXnFB0Xdmc87cIk70F1C2OA3dlPBCkZelWD6aiVBG7AaAo9eEALw_wcB)
