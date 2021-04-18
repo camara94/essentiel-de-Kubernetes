@@ -86,3 +86,16 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ![les pod](images/autrepod2.png)
 ## Exemple de spécification(yml ou json) 
 ![exemple de specification](images/exempledespecification2.png)
+## Installation de Kubernates
+### Types d'installation
+#### Solutions locales et hebergées
+![types installation](images/typesdinstallations.png)
+#### Solution On-Premise
+![on-premise](images/on-remise.png)
+
+#### Minikube
+![minikube](images/minikube.png)
+#### Docker Desktop
+![docker](images/dockerdesktop.png)
+#### Kubeadm
+![kube adm](images/kubeadm.png)
