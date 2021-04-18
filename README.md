@@ -61,3 +61,16 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ### Accèss au cluster Kubernates
 ![cluster kubernates](images/accessclusterkubernates.png)
 ![cluster kubernates](images/accessclusterkubernates2.png)
+
+## Les ressources utilisées par le cluster K8s
+![ressources cluster kubernates](images/ressourcesclusterk8s.png)
+### La Gestion des Ressources
+![gestion des ressources](images/gestiondesressources.png)
+### Le load balancing
+![load balancing](images/loadbalancing.png)
+### La configuration des applications
+![configuration](images/configuration.png)
+### Le stockages de données
+![stockage](images/stockages.png)
+### La configuration de cluster
+![config](images/configurationcluster.png)
