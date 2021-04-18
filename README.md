@@ -74,3 +74,15 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ![stockage](images/stockages.png)
 ### La configuration de cluster
 ![config](images/configurationcluster.png)
+
+## Définir le format des spécifications des ressources
+### Les clés de définition
+#### Les clé apiVersion et kind
+![cles](images/cleededefinition.png)
+#### la clé metadata et spec
+![cle metadata](images/clemetadata.png)
+## Les Pod
+![les pod](images/podautre.png)
+![les pod](images/autrepod2.png)
+## Exemple de spécification(yml ou json) 
+![exemple de specification](images/exempledespecification2.png)
