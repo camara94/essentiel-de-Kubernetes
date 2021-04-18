@@ -9,3 +9,14 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 
 ## Historique des containers
 ![les containers](images/historique.png)
+## Docker
+### Architecture docker
+![architecture docker](images/architecturedocker.png)
+### Docker engine
+![docker engine](images/enginedocker.png)
+### Image docker
+![image docker](images/imagedocker.png)
+### Conteneur docker
+![contaniner docker](images/conteneurdocker.png)
+### Avantages des conteneurs docker
+![avantage des conteneurs docker](images/avantagesdesconteneurdocker.png)
