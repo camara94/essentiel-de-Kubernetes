@@ -20,3 +20,10 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ![contaniner docker](images/conteneurdocker.png)
 ### Avantages des conteneurs docker
 ![avantage des conteneurs docker](images/avantagesdesconteneurdocker.png)
+
+## S'initier à kubernates
+### Historique
+![historique](images/historiquekubernates.png)
+### Qu'est ce que kubernates
+![kubernates](images/questcequekubernates.png)
+![kubernates](images/questcequekubernates2.png)
