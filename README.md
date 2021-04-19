@@ -99,6 +99,14 @@ Si vous avez des applications conteneurisées à déployer et à mettre à jour,
 ![docker](images/dockerdesktop.png)
 #### Kubeadm
 ![kube adm](images/kubeadm.png)
+## Context
+![le context](images/context.png)
+## Configuration 
+![configuration](images/configurationkubectl.png)
+
+## Quelques commandes
+![cmd](images/commandes.png)
+![cmd](images/commandes12.png)
 
 
 ## Liens utils pour kubernates
